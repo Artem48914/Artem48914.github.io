@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+body{
+    background-color: chartreuse;
+}
+p{
+    color: cornflowerblue;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+a{
+font-size: 25px;
+}
+
+    
