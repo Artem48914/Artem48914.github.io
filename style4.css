@@ -1,28 +1,35 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+p{
+    font-size: 30px;
+    color: blanchedalmond;
+    background: rgb(49, 255, 128);
+    border-radius: 10px;
 }
 
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    background: rgb(49, 255, 128);
+    border-radius: 10px;
+}
 
-.main {
-    background-color: cyan;
-    display: flex;
-    flex-wrap: wrap;
-    width: 95%;
-    max-width: 1000px;
+body{
+    background: url(https://besthqwallpapers.com/Uploads/11-5-2019/91419/thumb2-yellow-material-background-material-design-yellow-black-abstraction-lines-abstract-backgrounds.jpg )
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background: rgb(49, 255, 128);
+    border-radius: 10px;
+}
+
+.wrapper{
+    max-width: 1200px;
     margin: auto;
-    box-shadow: 0 0 10px 1px darkblue;
+    background: rgb(49, 255, 128);
+    border-radius: 10px;
 }
 
-.item {
-    max-width: 490px;
-    max-height: 265px;
-    width: calc(50% - 10px);
-    height: calc(95vw / 2 / 16 * 9);
-    background-color: darkgoldenrod;
-    margin: 5px;
+img{
+    border-radius: 10px;
 }
-
-img
-

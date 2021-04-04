@@ -1,8 +1,8 @@
 p{
-    font-size: 25px;
+    font-size: 30px;
     color: blanchedalmond;
     background: rgb(49, 255, 128);
-    
+    border-radius: 10px;
 }
 
 h1{
@@ -13,7 +13,7 @@ h1{
 }
 
 body{
-   background: url(https://besthqwallpapers.com/Uploads/11-5-2019/91419/thumb2-yellow-material-background-material-design-yellow-black-abstraction-lines-abstract-backgrounds.jpg )
+    background: url(https://besthqwallpapers.com/Uploads/11-5-2019/91419/thumb2-yellow-material-background-material-design-yellow-black-abstraction-lines-abstract-backgrounds.jpg )
 }
 
 h2{
@@ -23,19 +23,9 @@ h2{
     border-radius: 10px;
 }
 
-img{
-    border-radius: 10px;
-    max-width: 100%;
-    height: auto;
-
-        
-        
-}
-
 .wrapper{
     max-width: 1200px;
     margin: auto;
     background: rgb(49, 255, 128);
     border-radius: 10px;
 }
-
