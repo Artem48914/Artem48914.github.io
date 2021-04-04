@@ -35,3 +35,7 @@ img{
     background: rgb(49, 255, 128);
     border-radius: 10px;
 }
+
+body{
+    font-family: 'New Tegomin', serif;
+}

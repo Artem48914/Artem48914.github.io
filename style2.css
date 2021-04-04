@@ -2,6 +2,7 @@ p{
     font-size: 25px;
     color: blanchedalmond;
     background: rgb(49, 255, 128);
+    font-family: 'New Tegomin', serif;
     
 }
 
@@ -10,10 +11,12 @@ h1{
     text-align: center;
     background: rgb(49, 255, 128);
     border-radius: 10px;
+    font-family: 'New Tegomin', serif;
 }
 
 body{
    background: url(https://besthqwallpapers.com/Uploads/11-5-2019/91419/thumb2-yellow-material-background-material-design-yellow-black-abstraction-lines-abstract-backgrounds.jpg )
+  
 }
 
 h2{
@@ -21,6 +24,7 @@ h2{
     text-align: center;
     background: rgb(49, 255, 128);
     border-radius: 10px;
+    font-family: 'New Tegomin', serif;
 }
 
 img{
@@ -37,5 +41,8 @@ img{
     margin: auto;
     background: rgb(49, 255, 128);
     border-radius: 10px;
+}
+body{
+    font-family: 'New Tegomin', serif;
 }
 
